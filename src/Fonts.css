@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee");
+@import url("https://fonts.googleapis.com/css?family=Bungee-inline");
+@import url("https://fonts.googleapis.com/css?family=Bungee Shade");
+
+.header {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Bungee Shade";
+}
+p {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+h2 {
+  font-family: "Bungee", cursive;
+  color: #22370d;
+}
+
+body {
+  background-color: #adcb8e;
+}
